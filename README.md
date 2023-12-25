@@ -1,5 +1,11 @@
 ### Hi there 👋
+Hello World! I'm Kubilay, an enthusiastic and aspiring developer currently navigating the exciting world of code at [42](https://www.linkedin.com/company/42istanbul42kocaeli/?originalSubdomain=tr) İstanbul. As a dedicated student in this innovative and collaborative learning environment, I am constantly honing my skills and pushing the boundaries of what is possible in the realm of technology.
 
+In addition to my studies at 42, I've embarked on extra-curricular adventures in the vast landscape of programming languages. From the elegance of Python to the robustness of C, and the versatility of JavaScript, and the power of C# and Java, I've delved into different linguistic realms, expanding my understanding and adaptability in the coding universe. I am passionate about coding and fueled by curiosity, I thrive on solving complex problems and crafting elegant solutions.
+
+My GitHub profile serves as a digital canvas showcasing my projects and the evolution of my coding prowess. Join me on this journey as I share my discoveries, challenges, and triumphs in the vast universe of programming.
+
+Currently immersed in the dynamic atmosphere of 42 School, I am excited to connect with like-minded individuals, collaborate on exciting projects, and contribute to the thriving open-source community. 
 <!--
 **kbly538/kbly538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
